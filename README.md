@@ -74,10 +74,3 @@ Here are some ideas to get you started:
 <p align="left">
   <img src="https://streak-stats.demolab.com/?user=AineshSridhar&theme=tokyonight&border_radius=10&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
 </p>
-
----
-
-### 📈 Contribution Graph
-<p align="center">
-  <img src="https://github-contribution-graph.vercel.app/?username=AineshSridhar&theme=tokyo-night" alt="Contribution Graph" />
-</p>
